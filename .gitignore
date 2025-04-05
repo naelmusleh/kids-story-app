@@ -1,0 +1,88 @@
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Expo
+.expo
+.expo-shared
+
+# Next
+.next
+
+# macOS
+.DS_Store
+
+# Android
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
+*.keystore
+
+# iOS
+ios/Pods/
+ios/DerivedData/
+ios/build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcuserstate
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*.local
+
+# Build outputs
+dist/
+build/
+web-build/
+
+# Media & temp
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.psd
+*.tiff
+*.ai
+*.sketch
+*.svg
+*.webp
+
+# Python (for your backend)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.pytest_cache/
+env/
+venv/
+.pyenv/
+.idea/
+*.sqlite3
+
+# Misc
+*.bak
+*.swp
+*.swo
+
+# Output Folders
+temp_space_*/
+file_list.txt
